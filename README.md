@@ -1,14 +1,24 @@
-## Welcome to the Innovator Island workshop!
+# Innovator Island Front End Application
 
-![InnovatorIsland](./images/innovator-island_logo.png)
+## Project setup
+```
+npm install
+```
 
-For workshop instructions, visit [AWS Workshop Studio](https://catalog.us-east-1.prod.workshops.aws/workshops/74d0f3be-7108-4bba-8136-00617a988535)
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-### Have an idea for this workshop? Found a bug? ###
+### Compiles and minifies for production
+```
+npm run build
+```
 
-If you have an idea for a module or feature in this workshop, or you have found a bug or need to report a problem, let us know!
+### Lints and fixes files
+```
+npm run lint
+```
 
-- [Request a feature](https://github.com/aws-samples/aws-serverless-workshop-innovator-island/issues/new?assignees=&labels=&template=workshop-feature-request.md&title=)
-- [Report an issue](https://github.com/aws-samples/aws-serverless-workshop-innovator-island/issues/new?assignees=&labels=&template=bug_report.md&title=)
-
-Contact the author [@jbesw](https://twitter.com/jbesw) for any additional help or support requests.
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
