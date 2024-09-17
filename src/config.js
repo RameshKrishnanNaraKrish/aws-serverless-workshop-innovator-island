@@ -13,9 +13,9 @@ export const appConfig = {
   initStateAPI: 'https://22qj28n2ee.execute-api.us-east-1.amazonaws.com/Prod/InitState/', // e.g. https://12abcdef89.execute-api.us-west-2.amazonaws.com/Prod/InitState/
   // MODULE 2 - REALTIME
   iot: {
-    poolId: '', // e.g. 'us-west-2:1abcdef-1234-abcd-1234-abcde123456'
-    host: '', // e.g. 'ab12ab12abcde.iot.us-east-1.amazonaws.com'
-    region: '' // e.g. 'us-west-1'
+    poolId: 'us-east-1:8ddf0f96-2579-4cea-bfb7-3da9fa5c34f9', // e.g. 'us-west-2:1abcdef-1234-abcd-1234-abcde123456'
+    host: 'alivuzs3q9n1o-ats.iot.us-east-1.amazonaws.com', // e.g. 'ab12ab12abcde.iot.us-east-1.amazonaws.com'
+    region: 'us-east-1' // e.g. 'us-west-1'
   },
   // MODULE 3 - PHOTOS
   photoUploadURL: '', // e.g. https://12abcdfg89.execute-api.us-west-2.amazonaws.com/Prod/Upload
